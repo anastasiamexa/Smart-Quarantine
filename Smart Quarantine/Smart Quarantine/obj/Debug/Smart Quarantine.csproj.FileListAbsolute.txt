@@ -1,0 +1,39 @@
+C:\Users\anast\source\repos\Smart Quarantine\Smart Quarantine\bin\Debug\Smart Quarantine.exe.config
+C:\Users\anast\source\repos\Smart Quarantine\Smart Quarantine\bin\Debug\Smart Quarantine.exe
+C:\Users\anast\source\repos\Smart Quarantine\Smart Quarantine\bin\Debug\Smart Quarantine.pdb
+C:\Users\anast\source\repos\Smart Quarantine\Smart Quarantine\obj\Debug\Smart Quarantine.csprojAssemblyReference.cache
+C:\Users\anast\source\repos\Smart Quarantine\Smart Quarantine\obj\Debug\Smart_Quarantine.Form1.resources
+C:\Users\anast\source\repos\Smart Quarantine\Smart Quarantine\obj\Debug\Smart_Quarantine.Form2.resources
+C:\Users\anast\source\repos\Smart Quarantine\Smart Quarantine\obj\Debug\Smart_Quarantine.Properties.Resources.resources
+C:\Users\anast\source\repos\Smart Quarantine\Smart Quarantine\obj\Debug\Smart Quarantine.csproj.GenerateResource.cache
+C:\Users\anast\source\repos\Smart Quarantine\Smart Quarantine\obj\Debug\Smart Quarantine.csproj.CoreCompileInputs.cache
+C:\Users\anast\source\repos\Smart Quarantine\Smart Quarantine\obj\Debug\Smart Quarantine.exe
+C:\Users\anast\source\repos\Smart Quarantine\Smart Quarantine\obj\Debug\Smart Quarantine.pdb
+C:\Users\anast\source\repos\Smart Quarantine\Smart Quarantine\obj\Debug\Smart_Quarantine.Form3.resources
+C:\Users\anast\source\repos\Smart Quarantine\Smart Quarantine\obj\Debug\Smart_Quarantine.Form4.resources
+C:\Users\anast\source\repos\Smart Quarantine\Smart Quarantine\obj\Debug\Smart_Quarantine.Form5.resources
+C:\Users\anast\source\repos\Smart Quarantine\Smart Quarantine\obj\Debug\Smart_Quarantine.Form6.resources
+C:\Users\anast\source\repos\Smart Quarantine\Smart Quarantine\obj\Debug\Smart_Quarantine.Form7.resources
+C:\Users\anast\source\repos\Smart Quarantine\Smart Quarantine\obj\Debug\Smart_Quarantine.Form8.resources
+C:\Users\anast\source\repos\Smart Quarantine\Smart Quarantine\obj\Debug\Smart_Quarantine.Form9.resources
+C:\Users\anast\source\repos\Smart Quarantine\Smart Quarantine\obj\Debug\Smart_Quarantine.Form10.resources
+C:\Users\anast\source\repos\Smart Quarantine\Smart Quarantine\obj\Debug\Smart_Quarantine.Form11.resources
+C:\Users\anast\source\repos\Smart Quarantine\Smart Quarantine\obj\Debug\Smart_Quarantine.Form12.resources
+C:\Users\anast\source\repos\Smart Quarantine\Smart Quarantine\obj\Debug\Smart_Quarantine.Form13.resources
+C:\Users\anast\source\repos\Smart Quarantine\Smart Quarantine\obj\Debug\Smart_Quarantine.Form14.resources
+C:\Users\anast\source\repos\Smart Quarantine\Smart Quarantine\obj\Debug\Smart_Quarantine.Form15.resources
+C:\Users\anast\source\repos\Smart Quarantine\Smart Quarantine\bin\Debug\CircularProgressBar.dll
+C:\Users\anast\source\repos\Smart Quarantine\Smart Quarantine\bin\Debug\WinFormAnimation.dll
+C:\Users\anast\source\repos\Smart Quarantine\Smart Quarantine\bin\Debug\CircularProgressBar.xml
+C:\Users\anast\source\repos\Smart Quarantine\Smart Quarantine\obj\Debug\Smart Quarantine.csproj.CopyComplete
+C:\Users\anast\source\repos\Smart Quarantine\Smart Quarantine\obj\Debug\Smart_Quarantine.Form16.resources
+C:\Users\anast\source\repos\Smart Quarantine\Smart Quarantine\obj\Debug\Smart_Quarantine.Form17.resources
+C:\Users\anast\source\repos\Smart Quarantine\Smart Quarantine\obj\Debug\Smart_Quarantine.Form18.resources
+C:\Users\anast\source\repos\Smart Quarantine\Smart Quarantine\obj\Debug\Smart_Quarantine.Form19.resources
+C:\Users\anast\source\repos\Smart Quarantine\Smart Quarantine\obj\Debug\Smart_Quarantine.Form20.resources
+C:\Users\anast\source\repos\Smart Quarantine\Smart Quarantine\obj\Debug\Smart_Quarantine.Form21.resources
+C:\Users\anast\source\repos\Smart Quarantine\Smart Quarantine\obj\Debug\Smart_Quarantine.Form22.resources
+C:\Users\anast\source\repos\Smart Quarantine\Smart Quarantine\obj\Debug\Smart_Quarantine.Form23.resources
+C:\Users\anast\source\repos\Smart Quarantine\Smart Quarantine\obj\Debug\Smart_Quarantine.Form24.resources
+C:\Users\anast\source\repos\Smart Quarantine\Smart Quarantine\obj\Debug\Smart_Quarantine.Form25.resources
+C:\Users\anast\source\repos\Smart Quarantine\Smart Quarantine\obj\Debug\Smart_Quarantine.Form26.resources
